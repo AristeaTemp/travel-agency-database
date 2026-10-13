@@ -52,5 +52,3 @@ UPDATE worker SET wrk_salary = 1 WHERE wrk_AT = 'D9001';
 - All personal data is fictional or anonymised. The large customer table was generated with random names.
 - The procedures and triggers in this repository are corrected versions of the ones submitted with the course report, tested on MariaDB 10.11.
 
-## Authors
-Aristea Tempelopoulou and Ilda Chountsi (50% / 50%)
