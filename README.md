@@ -57,7 +57,7 @@ UPDATE worker SET wrk_salary = 1 WHERE wrk_AT = 'D9001';
 | Name | GitHub |
 |---|---|
 | Aristea Tempelopoulou | [@AristeaTemp](https://github.com/AristeaTemp) |
-| Ilda Chounti | [@ildahun](https://github.com/ildahun) |
+| Ilda Hunci | [@ildahun](https://github.com/ildahun) |
 
 Two-person team project for the course "Databases" (University of Patras)
 
